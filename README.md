@@ -3,7 +3,7 @@
 
 <div id="header" align="left">
 
-  <img src="https://github.com/benidijaneo/benidijaneo.github.io/blob/main/readme-md.gif" width="400"/>
+  <img src="https://github.com/benidijaneo/benidijaneo.github.io/blob/main/readme-md.gif" width="1000"/>
  
 </div>
 
