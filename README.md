@@ -6,7 +6,7 @@
   <img src="https://github.com/benidijaneo/benidijaneo.github.io/blob/main/readme-md.gif" width="1000"/>
  
 </div>
-
+<!-- 
 **`Everyday Grinding:`**
 
  <div id="badges">
@@ -19,4 +19,4 @@
   <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">
     <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Freecodecamp Badge"/>
   </a>
-</div>
+</div> -->
